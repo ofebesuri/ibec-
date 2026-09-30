@@ -1,0 +1,82 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Production builds
+dist/
+build/
+out/
+.next/
+.nuxt/
+.svelte-kit/
+
+# Environment variables
+.env
+.env*.local
+.env.production
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Editor and IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# AI tools
+.cursor/
+.claude/
+.codebuddy/
+.trae/
+.windsurf/
+
+# Cache
+.cache/
+.parcel-cache/
+.eslintcache
+.vite/
+.turbo/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Build artifacts
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+
+# Gradle (Android)
+.gradle/
+.gradle-user/
+android/build/
+android/.gradle/
+
+# Capacitor
+android/
+ios/
+
+# Database
+*.db
+*.sqlite
+
+# Misc
+*.pem
+*.key
+credentials.json
+service-account*.json
+*.apk
+*.rar
+replay_*.log
+hs_err_*.log

@@ -1,0 +1,52 @@
+{
+  "name": "FluBioStack - 合成生物学平台",
+  "short_name": "FluBioStack",
+  "description": "面向 iBEC/iGEM 竞赛的金奖合成生物学工具平台",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1020",
+  "theme_color": "#16BFDB",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "scope": "/",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "science", "productivity"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "分析模块",
+      "short_name": "Analysis",
+      "description": "scFv / 多组学 / 回路仿真 / 流行病预测",
+      "url": "/analysis",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "元件数据库",
+      "short_name": "Database",
+      "description": "查看元件详细信息",
+      "url": "/database",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "安全审查",
+      "short_name": "Safety",
+      "description": "生物安全与伦理审查",
+      "url": "/safety-review",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

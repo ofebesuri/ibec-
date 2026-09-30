@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="dnaGradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00D4FF" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#00FF88" stop-opacity="0.4"/>
+    </linearGradient>
+    <linearGradient id="dnaGradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6B4EFF" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#FFB800" stop-opacity="0.4"/>
+    </linearGradient>
+  </defs>
+  <path d="M 20,20 Q 60,60 100,20 T 180,20" fill="none" stroke="url(#dnaGradient1)" stroke-width="2"/>
+  <path d="M 20,60 Q 60,20 100,60 T 180,60" fill="none" stroke="url(#dnaGradient2)" stroke-width="2"/>
+  <path d="M 20,100 Q 60,140 100,100 T 180,100" fill="none" stroke="url(#dnaGradient1)" stroke-width="2"/>
+  <path d="M 20,140 Q 60,100 100,140 T 180,140" fill="none" stroke="url(#dnaGradient2)" stroke-width="2"/>
+  <path d="M 20,180 Q 60,220 100,180 T 180,180" fill="none" stroke="url(#dnaGradient1)" stroke-width="2"/>
+  <line x1="40" y1="20" x2="40" y2="60" stroke="#00D4FF" stroke-width="0.5" opacity="0.4"/>
+  <line x1="80" y1="20" x2="80" y2="60" stroke="#00D4FF" stroke-width="0.5" opacity="0.4"/>
+  <line x1="120" y1="20" x2="120" y2="60" stroke="#00D4FF" stroke-width="0.5" opacity="0.4"/>
+  <line x1="160" y1="20" x2="160" y2="60" stroke="#00D4FF" stroke-width="0.5" opacity="0.4"/>
+</svg>

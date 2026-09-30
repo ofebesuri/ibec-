@@ -2,6 +2,8 @@
 
 BioGuardian 是一款基于合成生物学知识产权保护与法律服务的桌面应用平台。
 
+# 注意:上传的代码没有包含supabase密钥，如无法登录，请下载release发布的压缩包版本
+
 ## 技术栈
 
 - **前端框架**: React 18 + TypeScript

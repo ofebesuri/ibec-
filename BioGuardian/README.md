@@ -44,7 +44,7 @@ npm install
 
 3. 配置环境变量
 
-创建 `.env.local` 文件，参考 `.env.development` 配置以下变量：
+首先注册并登录supabase并按照supabase文件夹创建对应表单，再创建 `.env.local` 文件，参考 `.env.development` 配置以下变量：
 
 ```
 VITE_SUPABASE_URL=your_supabase_url

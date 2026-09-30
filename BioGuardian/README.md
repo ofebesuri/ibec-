@@ -42,7 +42,7 @@ cd ibec-/BioGuardian
 npm install
 ```
 
-3. 配置环境变量
+3. 创建表单及配置环境变量
 
 首先注册并登录supabase并按照supabase文件夹创建对应表单，再创建 `.env.local` 文件，参考 `.env.development` 配置以下变量：
 
